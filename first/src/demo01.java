@@ -8,5 +8,8 @@ public class demo01 {
         System.out.println("hotfix");
         System.out.println("featerA.A");
         System.out.println("featerA.B");
+        System.out.println("featerA.A.A");
+        System.out.println("featerA.A.B");
+        System.out.println("featerA.A.C");
     }
 }
