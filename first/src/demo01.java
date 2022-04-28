@@ -6,5 +6,7 @@ public class demo01 {
         System.out.println("C功能");
         System.out.println("D功能");
         System.out.println("hotfix");
+        System.out.println("hotfix1");
+        System.out.println("hotfix2");
     }
 }
